@@ -1,3 +1,3 @@
 # Angelini Lab Guides
 
-* [Local BLAST](local.BLAST.md)
+* [Local BLAST](local.BLAST.html)
